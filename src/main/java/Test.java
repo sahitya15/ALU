@@ -4,7 +4,4 @@ public class Test {
         System.out.println("Hello");
     }
 }
-hello java
-hello ALU JAVA
-hiiii
-hiiii
+
