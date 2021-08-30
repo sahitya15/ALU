@@ -6,3 +6,5 @@ public class Test {
 }
 hello java
 hello ALU JAVA
+hiiii
+hiiii
